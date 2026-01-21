@@ -1,0 +1,180 @@
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+C:\Users\Malina\Desktop\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+C:\Users\Malina\Desktop\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+C:\Users\Malina\Desktop\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+C:\Users\Malina\Desktop\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+C:\Users\Malina\Desktop\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+C:\Users\Malina\Desktop\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+C:\Users\George\Desktop\Piu\Proiect_Malina\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+D:\cursuri an 4\PIU-proiect\PIU\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+C:\Users\George\Desktop\Piu\ProiectStefan\PIU\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+D:\cursuri an 4\PIU-proiect\PIU-George4\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+D:\cursuri an 4\PIU-proiect\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+C:\Users\Malina\Downloads\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-Malina-continuare\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.exe
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.deps.json
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.runtimeconfig.json
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\bin\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\App.g.cs
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU_MarkupCompile.lref
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\MainWindow.baml
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.g.resources
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfoInputs.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.AssemblyInfo.cs
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.csproj.CoreCompileInputs.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\refint\PIU.dll
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.pdb
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\PIU.genruntimeconfig.cache
+D:\cursuri an 4\PIU-proiect\etapa2-PIU-modificat\etapa2-PIU\etapa2\PIU\PIU\PIU\obj\Debug\net8.0-windows\ref\PIU.dll

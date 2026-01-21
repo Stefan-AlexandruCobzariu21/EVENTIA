@@ -1,0 +1,146 @@
+[
+  {
+    "ShapeType": "Ellipse",
+    "Width": 80,
+    "Height": 60,
+    "Left": 182,
+    "Top": 152,
+    "FillColor": "#FF0000FF"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 182,
+    "Top": 232,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 212,
+    "Top": 232,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 212,
+    "Top": 112,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 182,
+    "Top": 112,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 242,
+    "Top": 112,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 242,
+    "Top": 232,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 142,
+    "Top": 172,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Ellipse",
+    "Width": 80,
+    "Height": 60,
+    "Left": 447,
+    "Top": 156,
+    "FillColor": "#FF0000FF"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 282,
+    "Top": 172,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 407,
+    "Top": 176,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 477,
+    "Top": 116,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 477,
+    "Top": 236,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 547,
+    "Top": 176,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 447,
+    "Top": 236,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 507,
+    "Top": 236,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 447,
+    "Top": 116,
+    "FillColor": "#FFFF0000"
+  },
+  {
+    "ShapeType": "Rectangle",
+    "Width": 20,
+    "Height": 20,
+    "Left": 507,
+    "Top": 116,
+    "FillColor": "#FFFF0000"
+  }
+]
